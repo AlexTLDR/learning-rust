@@ -1,2 +1,3 @@
 # learning-rust
-A repo for me to test Rust
+
+I've established this repository to provide a dedicated space for me to explore and experiment with Rust programming code.
